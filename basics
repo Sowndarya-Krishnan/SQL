@@ -1,0 +1,7 @@
+SELECT TOP (1000) [store_id],[product_id],[quantity]
+  FROM [BikeStores].[production].[stocks]
+
+
+  SELECT store_id, product_name, quantity FROM [production].[products] PRO 
+  JOIN [production].[stocks]  STO ON PRO.[product_id] = STO.product_id 
+  ORDER BY store_id
