@@ -1,0 +1,101 @@
+owner_id,first_name,last_name,email,phone,location,property_id,ownership_type,purchase_date,document_verified
+1,Ryan,Lopez,ryan.lopez@example.com,7125373174,Miami,1,Joint,2021-04-06,Yes
+2,Michael,Nolan,michael.nolan@example.com,1312112743,Houston,2,Company-Owned,2023-07-18,No
+3,Gabriella,Crawford,gabriella.crawford@example.com,0322199682,New York,3,Joint,2024-04-13,Yes
+4,Terry,Jackson,terry.jackson@example.com,1727553942,Washington DC,4,Sole,2021-11-27,Yes
+5,Erin,Cobb,erin.cobb@example.com,6571490877,Washington DC,5,Sole,2023-09-30,Yes
+6,Daniel,Williams,daniel.williams@example.com,4521982931,Boston,6,Company-Owned,2021-11-20,Yes
+7,Joseph,Coleman,joseph.coleman@example.com,6252215386,Miami,7,Company-Owned,2024-07-13,No
+8,Rachel,Medina,rachel.medina@example.com,7503688895,San Francisco,8,Sole,2024-04-16,Yes
+9,Katherine,Lucas,katherine.lucas@example.com,4534216667,Dallas,9,Sole,2021-05-12,No
+10,Whitney,Guzman,whitney.guzman@example.com,1809909980,Miami,10,Sole,2024-09-06,Yes
+11,Andrew,Reed,andrew.reed@example.com,4786016760,San Francisco,11,Sole,2020-04-20,Yes
+12,John,Bryant,john.bryant@example.com,2376331212,Chicago,12,Sole,2022-07-25,No
+13,Kaitlyn,Johnson,kaitlyn.johnson@example.com,5514604724,New York,13,Company-Owned,2021-05-21,No
+14,Danny,Turner,danny.turner@example.com,7736944660,San Francisco,14,Joint,2023-10-15,No
+15,John,Daniel,john.daniel@example.com,8447220767,Chicago,15,Joint,2022-10-15,No
+16,Patricia,Hall,patricia.hall@example.com,7739633683,Los Angeles,16,Joint,2023-02-19,No
+17,Elizabeth,Singh,elizabeth.singh@example.com,4659265188,New York,17,Joint,2023-05-29,No
+18,Matthew,Cline,matthew.cline@example.com,8446062489,Chicago,18,Company-Owned,2023-12-06,Yes
+19,Joel,Graves,joel.graves@example.com,0919028008,Miami,19,Sole,2021-09-23,Yes
+20,Steven,Garcia,steven.garcia@example.com,6924635302,Los Angeles,20,Sole,2024-06-18,Yes
+21,Samantha,Smith,samantha.smith@example.com,1802975141,Boston,21,Joint,2024-02-15,No
+22,Toni,Carrillo,toni.carrillo@example.com,7646980491,New York,22,Joint,2022-08-17,Yes
+23,Andrew,Morrow,andrew.morrow@example.com,8147598168,New York,23,Sole,2025-02-18,Yes
+24,Corey,Yu,corey.yu@example.com,8316381613,Miami,24,Company-Owned,2023-03-21,No
+25,Richard,Robinson,richard.robinson@example.com,3990274823,Dallas,25,Joint,2024-10-28,No
+26,Christine,Little,christine.little@example.com,2141540763,Boston,26,Company-Owned,2020-04-05,No
+27,Cody,Williams,cody.williams@example.com,3280334912,Miami,27,Joint,2020-09-01,No
+28,Michael,Davis,michael.davis@example.com,6179983985,Los Angeles,28,Company-Owned,2023-02-23,No
+29,Sabrina,Townsend,sabrina.townsend@example.com,0278892372,San Francisco,29,Joint,2020-03-25,No
+30,Jeremy,Gibbs,jeremy.gibbs@example.com,3971260093,New York,30,Sole,2024-01-12,Yes
+31,Kelly,Figueroa,kelly.figueroa@example.com,2956621552,Boston,31,Joint,2024-08-29,No
+32,Rebecca,Collins,rebecca.collins@example.com,8855423781,Miami,32,Company-Owned,2020-03-18,Yes
+33,Timothy,Mccoy,timothy.mccoy@example.com,9999671831,Houston,33,Sole,2022-06-22,Yes
+34,Michael,Stewart,michael.stewart@example.com,9187866023,Washington DC,34,Sole,2024-03-22,Yes
+35,Ronnie,Buckley,ronnie.buckley@example.com,7648560428,Los Angeles,35,Sole,2020-04-05,No
+36,Debbie,Thomas,debbie.thomas@example.com,6395123231,Los Angeles,36,Sole,2024-10-27,No
+37,Alexis,Ward,alexis.ward@example.com,2956747443,Miami,37,Sole,2023-03-07,Yes
+38,Kelly,Yates,kelly.yates@example.com,9172593766,Boston,38,Sole,2022-06-16,Yes
+39,Michele,Cruz,michele.cruz@example.com,6706189146,Dallas,39,Company-Owned,2021-10-27,No
+40,David,Murray,david.murray@example.com,4130169914,Dallas,40,Company-Owned,2023-01-23,Yes
+41,Kevin,Delacruz,kevin.delacruz@example.com,6765403505,Los Angeles,41,Joint,2023-09-18,Yes
+42,Joshua,Melton,joshua.melton@example.com,9561669068,Chicago,42,Joint,2024-08-27,Yes
+43,Michael,Jensen,michael.jensen@example.com,8620518596,Boston,43,Joint,2020-09-01,Yes
+44,Donald,Tanner,donald.tanner@example.com,2130836480,Washington DC,44,Company-Owned,2024-06-25,No
+45,William,Brown,william.brown@example.com,2912382862,Washington DC,45,Company-Owned,2023-02-02,Yes
+46,Laurie,Cunningham,laurie.cunningham@example.com,8288071096,Miami,46,Company-Owned,2023-07-30,Yes
+47,Taylor,Robles,taylor.robles@example.com,2856449406,Los Angeles,47,Joint,2023-01-28,No
+48,Anna,Watts,anna.watts@example.com,3333348408,New York,48,Joint,2024-12-11,No
+49,Brian,Knox,brian.knox@example.com,2098845131,Los Angeles,49,Sole,2022-02-17,No
+50,Anthony,Clark,anthony.clark@example.com,9204740268,San Francisco,50,Joint,2021-04-30,No
+51,Jesse,Jenkins,jesse.jenkins@example.com,2432426885,Washington DC,51,Sole,2020-09-05,Yes
+52,Cassandra,Anderson,cassandra.anderson@example.com,4725145155,San Francisco,52,Joint,2020-09-11,No
+53,John,Stewart,john.stewart@example.com,5605044082,Washington DC,53,Sole,2022-05-28,Yes
+54,Christopher,Morales,christopher.morales@example.com,5544833763,Boston,54,Joint,2022-12-21,No
+55,Andrea,Carney,andrea.carney@example.com,6655964250,Chicago,55,Joint,2023-01-02,Yes
+56,Megan,Gonzalez,megan.gonzalez@example.com,8505108457,Seattle,56,Company-Owned,2022-12-30,No
+57,Kyle,Martin,kyle.martin@example.com,0904647696,Miami,57,Sole,2023-10-20,Yes
+58,Carolyn,Crawford,carolyn.crawford@example.com,0723532419,New York,58,Joint,2023-12-19,No
+59,Andrea,Malone,andrea.malone@example.com,5923076222,Houston,59,Sole,2022-11-20,Yes
+60,Gregory,Medina,gregory.medina@example.com,1163195868,New York,60,Company-Owned,2022-12-15,No
+61,Christopher,Mendoza,christopher.mendoza@example.com,6743763313,Houston,61,Joint,2025-02-05,Yes
+62,John,Mueller,john.mueller@example.com,1315941230,Los Angeles,62,Company-Owned,2021-07-09,No
+63,Kristen,Cox,kristen.cox@example.com,6829881052,Seattle,63,Company-Owned,2021-01-29,No
+64,Jackson,Harper,jackson.harper@example.com,1309474741,Seattle,64,Company-Owned,2023-08-20,No
+65,Joshua,Snyder,joshua.snyder@example.com,9185579876,New York,65,Joint,2023-05-29,Yes
+66,Lindsay,Benjamin,lindsay.benjamin@example.com,0098900797,Boston,66,Company-Owned,2024-05-28,No
+67,Mario,Thomas,mario.thomas@example.com,0488074317,Chicago,67,Sole,2022-08-18,No
+68,Antonio,Hodges,antonio.hodges@example.com,7076052203,Chicago,68,Sole,2023-08-30,Yes
+69,Tiffany,Mays,tiffany.mays@example.com,6501276670,Los Angeles,69,Joint,2024-01-13,No
+70,Kelly,Woods,kelly.woods@example.com,8927770501,Los Angeles,70,Company-Owned,2023-11-15,No
+71,Tracey,Dodson,tracey.dodson@example.com,9407073075,New York,71,Sole,2022-03-31,Yes
+72,Tristan,Summers,tristan.summers@example.com,0047675938,Houston,72,Sole,2021-04-07,Yes
+73,Caitlin,Barnes,caitlin.barnes@example.com,6420018871,Houston,73,Sole,2023-05-25,Yes
+74,Latasha,Hill,latasha.hill@example.com,7383886872,Los Angeles,74,Joint,2022-07-03,No
+75,Kimberly,Allen,kimberly.allen@example.com,4911612643,Boston,75,Sole,2025-02-24,No
+76,Kristin,Gonzalez,kristin.gonzalez@example.com,8087651564,Houston,76,Sole,2023-10-19,No
+77,Nathaniel,Smith,nathaniel.smith@example.com,6094415092,Los Angeles,77,Joint,2023-03-22,Yes
+78,Matthew,Evans,matthew.evans@example.com,9538830096,Seattle,78,Company-Owned,2023-06-28,No
+79,Shelley,Jones,shelley.jones@example.com,8014140477,New York,79,Joint,2024-09-11,No
+80,Lisa,Torres,lisa.torres@example.com,8840296342,Houston,80,Joint,2021-10-18,Yes
+81,Randy,Shaw,randy.shaw@example.com,5168299515,San Francisco,81,Company-Owned,2021-04-26,No
+82,Nicole,Mendoza,nicole.mendoza@example.com,1327462286,Washington DC,82,Company-Owned,2024-06-24,No
+83,David,Cox,david.cox@example.com,2920120409,Washington DC,83,Sole,2020-12-24,Yes
+84,Brian,Hart,brian.hart@example.com,7955937839,New York,84,Sole,2022-09-29,Yes
+85,Melissa,Moore,melissa.moore@example.com,1727040644,New York,85,Joint,2023-12-04,Yes
+86,Kristy,Ramirez,kristy.ramirez@example.com,8630490139,Houston,86,Sole,2023-05-16,Yes
+87,Elizabeth,Obrien,elizabeth.obrien@example.com,7619124827,Miami,87,Sole,2024-04-26,Yes
+88,Allison,Harmon,allison.harmon@example.com,7420747349,Seattle,88,Sole,2023-03-10,No
+89,Michelle,Davis,michelle.davis@example.com,5934099734,Miami,89,Company-Owned,2022-07-04,Yes
+90,Amy,Parker,amy.parker@example.com,9338821488,San Francisco,90,Company-Owned,2025-01-09,Yes
+91,Johnathan,Potter,johnathan.potter@example.com,6044425330,Houston,91,Company-Owned,2020-05-30,Yes
+92,Terri,Hammond,terri.hammond@example.com,6559454100,Boston,92,Sole,2020-09-21,No
+93,Arthur,Gonzales,arthur.gonzales@example.com,2628885427,Seattle,93,Company-Owned,2022-11-07,Yes
+94,Brandy,Hill,brandy.hill@example.com,5001929321,Chicago,94,Joint,2020-05-22,No
+95,Samuel,Anderson,samuel.anderson@example.com,4651093587,New York,95,Sole,2022-11-11,No
+96,Wanda,James,wanda.james@example.com,0254553804,New York,96,Joint,2023-01-28,Yes
+97,Stephen,Gray,stephen.gray@example.com,7501672546,Houston,97,Company-Owned,2023-05-04,Yes
+98,Janice,Vance,janice.vance@example.com,8662247925,Dallas,98,Joint,2024-11-04,No
+99,Raymond,Rodriguez,raymond.rodriguez@example.com,9406435233,Chicago,99,Sole,2024-07-23,Yes
+100,Lindsey,Hunter,lindsey.hunter@example.com,1037769370,New York,100,Company-Owned,2021-09-02,Yes

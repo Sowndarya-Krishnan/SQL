@@ -1,0 +1,101 @@
+detail_id,property_id,property_type,property_image,floor_number,number_of_bedrooms,number_of_bathrooms,parking_spaces,year_built,heating_type,cooling_type,current_status,amenity_name,created_at
+5536,1,Apartment,https://example.com/images/property_1.jpg,3,5,2,Yes,2022,Central,None,Rented,"Gym, Pool",2022-01-01 08:12:09
+2372,2,Villa,https://example.com/images/property_2.jpg,,5,1,Yes,2020,Electric,Ceiling Fan,Sold,"Swimming Pool, Garden, Elevator",2022-01-21 06:35:16
+7763,3,Townhouse,https://example.com/images/property_3.jpg,,2,1,Yes,2020,Gas,Central,Under Construction,"Swimming Pool, WiFi, Pool",2022-02-17 05:19:49
+4403,4,Townhouse,https://example.com/images/property_4.jpg,,1,4,No,1995,Electric,Split AC,Available,"Parking, Security, Gym",2022-02-03 09:55:40
+3838,5,Villa,https://example.com/images/property_5.jpg,,4,1,Yes,2011,Gas,Central,Sold,"Security, Security",2022-02-26 12:23:02
+6990,6,Apartment,https://example.com/images/property_6.jpg,9,3,2,Yes,1997,Central,Split AC,Rented,"Security, Gym, WiFi, Play Area",2022-03-09 11:43:11
+3851,7,Apartment,https://example.com/images/property_7.jpg,5,3,2,No,2015,Gas,Ceiling Fan,Rented,"Garden, Pool, Gym, Clubhouse",2022-02-19 05:21:20
+4513,8,Condo,https://example.com/images/property_8.jpg,,4,1,No,2002,None,Ceiling Fan,Under Construction,"Swimming Pool, Clubhouse, Play Area",2022-03-05 09:04:23
+8285,9,Condo,https://example.com/images/property_9.jpg,,5,1,No,2023,None,None,Rented,"Parking, Gym, Security",2022-03-01 11:39:11
+2869,10,Apartment,https://example.com/images/property_10.jpg,2,3,1,Yes,2009,Central,None,Available,"Security, WiFi",2022-02-25 11:22:21
+8590,11,Townhouse,https://example.com/images/property_11.jpg,,5,1,Yes,2017,Gas,Split AC,Under Construction,"Garden, Security",2022-03-03 04:40:42
+4862,12,Townhouse,https://example.com/images/property_12.jpg,,1,3,No,2009,Central,Ceiling Fan,Available,"Parking, WiFi",2022-02-27 06:39:42
+2113,13,Townhouse,https://example.com/images/property_13.jpg,,1,4,No,2007,Gas,Central,Rented,"Gym, Clubhouse, Garden",2022-02-21 11:01:30
+4185,14,Condo,https://example.com/images/property_14.jpg,,3,2,Yes,1991,None,Split AC,Rented,"Security, Play Area, Garden",2022-02-08 02:47:24
+3852,15,Condo,https://example.com/images/property_15.jpg,,4,3,Yes,2013,Central,Central,Rented,"Security, Elevator, Garden, Gym",2022-01-04 06:01:08
+4539,16,Townhouse,https://example.com/images/property_16.jpg,,5,1,No,1994,None,Ceiling Fan,Under Construction,"Garden, Clubhouse",2022-03-04 12:22:25
+9104,17,Villa,https://example.com/images/property_17.jpg,,1,4,Yes,2002,Central,Split AC,Available,"Garden, Garden, WiFi",2022-03-24 06:44:26
+9290,18,Villa,https://example.com/images/property_18.jpg,,4,4,Yes,1993,None,Ceiling Fan,Available,"Garden, Play Area",2022-01-05 09:08:53
+3146,19,Townhouse,https://example.com/images/property_19.jpg,,3,4,No,2022,None,None,Sold,"Garden, WiFi, Garden",2022-04-10 07:38:51
+6066,20,Apartment,https://example.com/images/property_20.jpg,6,4,3,Yes,2002,None,Split AC,Available,"Garden, Garden, Elevator, Security",2022-04-09 02:42:01
+8176,21,Townhouse,https://example.com/images/property_21.jpg,,4,4,Yes,2009,Gas,Ceiling Fan,Available,"Gym, WiFi, Play Area, Security",2022-02-12 12:48:39
+1792,22,Villa,https://example.com/images/property_22.jpg,,1,2,No,2013,Gas,Split AC,Rented,"Gym, Garden, Security",2022-01-23 10:14:04
+4641,23,Villa,https://example.com/images/property_23.jpg,,2,3,Yes,1995,Electric,None,Available,"Gym, Clubhouse",2022-02-01 04:29:53
+9494,24,Condo,https://example.com/images/property_24.jpg,,3,1,No,2008,Electric,Split AC,Rented,"Gym, Clubhouse, Pool",2022-03-26 07:13:48
+1372,25,Condo,https://example.com/images/property_25.jpg,,2,3,Yes,2004,Gas,None,Available,"Security, Gym, Garden, Clubhouse",2022-02-20 02:37:57
+2606,26,Apartment,https://example.com/images/property_26.jpg,6,4,4,Yes,1990,Gas,Split AC,Sold,"Parking, Gym, Elevator, Security",2022-03-07 12:03:55
+6659,27,Apartment,https://example.com/images/property_27.jpg,9,2,4,No,2023,Central,None,Under Construction,"Swimming Pool, Garden",2022-01-25 12:31:33
+3661,28,Townhouse,https://example.com/images/property_28.jpg,,3,4,Yes,1996,Gas,Central,Available,"Parking, Clubhouse, Garden, Elevator",2022-01-31 08:28:57
+1036,29,Apartment,https://example.com/images/property_29.jpg,2,5,3,Yes,2017,Gas,Split AC,Under Construction,"Clubhouse, Clubhouse, Play Area",2022-03-12 01:08:32
+8979,30,Apartment,https://example.com/images/property_30.jpg,9,4,4,Yes,1995,Electric,Split AC,Available,"Parking, WiFi, Security",2022-01-24 05:53:27
+3718,31,Condo,https://example.com/images/property_31.jpg,,2,1,Yes,2001,Central,Ceiling Fan,Available,"Swimming Pool, Play Area",2022-01-20 06:55:19
+3619,32,Apartment,https://example.com/images/property_32.jpg,2,5,1,No,2001,Gas,Ceiling Fan,Under Construction,"Swimming Pool, Elevator, Clubhouse, Security",2022-02-10 05:26:46
+6092,33,Villa,https://example.com/images/property_33.jpg,,4,4,Yes,2014,Electric,None,Available,"Gym, Clubhouse, Elevator, Security",2022-02-23 12:02:56
+2563,34,Townhouse,https://example.com/images/property_34.jpg,,5,3,Yes,2003,Electric,Split AC,Available,"Clubhouse, Security, Elevator, Gym",2022-01-14 02:43:48
+9454,35,Villa,https://example.com/images/property_35.jpg,,3,1,Yes,1994,Central,Ceiling Fan,Available,"Clubhouse, Elevator",2022-04-04 10:13:28
+7145,36,Villa,https://example.com/images/property_36.jpg,,4,4,Yes,2021,Central,Ceiling Fan,Rented,"Swimming Pool, Security, Elevator, Gym",2022-01-19 08:00:04
+6281,37,Villa,https://example.com/images/property_37.jpg,,2,2,Yes,1996,Electric,None,Under Construction,"Clubhouse, Security, Elevator, Gym",2022-02-28 04:32:15
+6142,38,Villa,https://example.com/images/property_38.jpg,,4,4,Yes,1990,None,Central,Under Construction,"Gym, Security, Gym",2022-01-28 02:14:01
+5745,39,Apartment,https://example.com/images/property_39.jpg,2,3,3,No,2013,Gas,Split AC,Under Construction,"Swimming Pool, Pool, Clubhouse, Play Area",2022-01-30 10:19:45
+3174,40,Condo,https://example.com/images/property_40.jpg,,3,3,Yes,2015,None,Split AC,Rented,"Parking, Security",2022-01-12 11:09:32
+9042,41,Villa,https://example.com/images/property_41.jpg,,2,1,No,1994,None,Central,Under Construction,"Clubhouse, Play Area, WiFi",2022-02-06 03:14:46
+5515,42,Villa,https://example.com/images/property_42.jpg,,1,4,Yes,2011,Central,Split AC,Available,"Security, Pool, WiFi, Play Area",2022-02-04 08:28:44
+6723,43,Apartment,https://example.com/images/property_43.jpg,5,2,1,No,2005,None,Central,Available,"Security, Gym, Elevator",2022-03-10 12:12:29
+7943,44,Apartment,https://example.com/images/property_44.jpg,5,4,3,Yes,2010,Central,Split AC,Under Construction,"Gym, Play Area",2022-02-05 11:38:28
+1528,45,Condo,https://example.com/images/property_45.jpg,,3,1,Yes,2010,Central,Split AC,Under Construction,"Gym, Gym, Play Area",2022-02-22 02:32:57
+7656,46,Villa,https://example.com/images/property_46.jpg,,2,3,No,2017,Central,Central,Sold,"Security, Clubhouse, Garden, WiFi",2022-01-27 10:45:18
+4693,47,Apartment,https://example.com/images/property_47.jpg,8,4,2,No,2014,None,Split AC,Available,"Swimming Pool, WiFi",2022-02-09 12:09:02
+6363,48,Apartment,https://example.com/images/property_48.jpg,1,4,2,Yes,2019,None,Ceiling Fan,Under Construction,"Garden, Pool",2022-03-06 02:20:13
+7359,49,Townhouse,https://example.com/images/property_49.jpg,,4,4,Yes,2017,None,None,Sold,"Swimming Pool, Garden, Play Area, Clubhouse",2022-03-13 04:22:35
+8824,50,Villa,https://example.com/images/property_50.jpg,,2,4,Yes,1992,Gas,Split AC,Under Construction,"Swimming Pool, Security",2022-03-23 07:40:37
+3943,51,Condo,https://example.com/images/property_51.jpg,,5,4,Yes,2014,Gas,Central,Rented,"Swimming Pool, WiFi",2022-03-27 06:06:50
+2759,52,Condo,https://example.com/images/property_52.jpg,,2,4,Yes,1991,Electric,Split AC,Rented,"Gym, Clubhouse",2022-03-21 09:53:37
+7605,53,Apartment,https://example.com/images/property_53.jpg,4,3,2,Yes,2018,Central,Ceiling Fan,Rented,"Swimming Pool, Elevator, Play Area, Security",2022-01-07 07:56:48
+7915,54,Townhouse,https://example.com/images/property_54.jpg,,2,2,No,1994,Electric,Central,Under Construction,"Gym, Garden",2022-01-26 10:09:33
+7854,55,Condo,https://example.com/images/property_55.jpg,,5,3,Yes,2000,Electric,Ceiling Fan,Under Construction,"Parking, Pool, Gym, Garden",2022-03-25 12:18:15
+4476,56,Villa,https://example.com/images/property_56.jpg,,3,3,Yes,2009,None,None,Rented,"Gym, Garden, Clubhouse",2022-04-03 09:42:09
+8303,57,Townhouse,https://example.com/images/property_57.jpg,,4,1,No,2009,Gas,Central,Sold,"Gym, Play Area, Clubhouse, WiFi",2022-03-11 02:36:53
+1770,58,Condo,https://example.com/images/property_58.jpg,,2,3,Yes,2017,Gas,Central,Rented,"Clubhouse, Play Area",2022-01-03 08:12:24
+2282,59,Townhouse,https://example.com/images/property_59.jpg,,1,1,Yes,2010,Electric,None,Available,"Clubhouse, WiFi, Clubhouse",2022-02-14 09:06:48
+2648,60,Villa,https://example.com/images/property_60.jpg,,3,3,Yes,2005,Central,Central,Available,"Garden, WiFi",2022-04-08 12:52:31
+5195,61,Apartment,https://example.com/images/property_61.jpg,6,2,1,Yes,2016,Gas,Central,Sold,"Clubhouse, Garden",2022-03-08 05:36:51
+3241,62,Townhouse,https://example.com/images/property_62.jpg,,1,1,Yes,2009,Electric,Ceiling Fan,Sold,"Gym, Gym",2022-03-28 01:40:48
+1022,63,Apartment,https://example.com/images/property_63.jpg,1,1,1,No,1997,None,Ceiling Fan,Sold,"Clubhouse, Elevator, Garden",2022-03-19 12:04:32
+7120,64,Townhouse,https://example.com/images/property_64.jpg,,5,1,Yes,2009,None,Ceiling Fan,Under Construction,"Swimming Pool, Clubhouse, Gym",2022-02-07 04:42:53
+5106,65,Villa,https://example.com/images/property_65.jpg,,4,1,Yes,2018,Gas,Split AC,Under Construction,"Parking, Gym",2022-04-06 09:20:20
+1234,66,Apartment,https://example.com/images/property_66.jpg,9,5,4,Yes,2000,Gas,None,Rented,"Parking, Security, Garden, Elevator",2022-01-18 10:52:20
+7791,67,Condo,https://example.com/images/property_67.jpg,,5,2,Yes,2004,Electric,Central,Available,"Security, Play Area, WiFi",2022-01-10 04:26:54
+9122,68,Apartment,https://example.com/images/property_68.jpg,9,4,1,No,2016,Central,Ceiling Fan,Rented,"Swimming Pool, Pool, Clubhouse, Gym",2022-02-16 11:06:50
+3590,69,Villa,https://example.com/images/property_69.jpg,,5,2,Yes,2010,Electric,Central,Under Construction,"Parking, Elevator",2022-03-22 02:43:49
+7048,70,Apartment,https://example.com/images/property_70.jpg,2,1,4,Yes,1994,Electric,Central,Rented,"Clubhouse, Security",2022-03-14 08:36:39
+3933,71,Townhouse,https://example.com/images/property_71.jpg,,5,3,Yes,1996,Electric,Ceiling Fan,Rented,"Swimming Pool, Elevator, Gym",2022-02-02 12:27:58
+9554,72,Condo,https://example.com/images/property_72.jpg,,2,2,No,2018,Electric,Split AC,Sold,"Clubhouse, Play Area",2022-03-02 10:14:49
+1992,73,Villa,https://example.com/images/property_73.jpg,,1,3,Yes,2004,None,None,Available,"Swimming Pool, Clubhouse",2022-03-17 10:45:53
+8688,74,Condo,https://example.com/images/property_74.jpg,,2,2,No,2023,Central,None,Available,"Parking, WiFi",2022-02-18 08:26:10
+5763,75,Villa,https://example.com/images/property_75.jpg,,2,3,Yes,2020,Central,None,Available,"Gym, Pool",2022-03-29 04:59:11
+2330,76,Townhouse,https://example.com/images/property_76.jpg,,3,2,Yes,2012,None,Split AC,Under Construction,"Swimming Pool, Garden, Elevator, Clubhouse",2022-04-05 04:35:27
+8962,77,Townhouse,https://example.com/images/property_77.jpg,,1,4,Yes,1991,Gas,Central,Available,"Swimming Pool, Gym",2022-02-13 07:10:07
+7189,78,Villa,https://example.com/images/property_78.jpg,,1,3,Yes,1998,Central,Ceiling Fan,Rented,"Security, Pool",2022-04-07 07:02:32
+6263,79,Apartment,https://example.com/images/property_79.jpg,10,1,3,Yes,2020,Electric,None,Sold,"Garden, Pool, Gym, Clubhouse",2022-01-09 01:41:57
+7725,80,Apartment,https://example.com/images/property_80.jpg,5,3,2,Yes,2009,Electric,None,Available,"Garden, WiFi, Security",2022-02-11 11:07:18
+3210,81,Condo,https://example.com/images/property_81.jpg,,4,2,Yes,1990,Gas,Central,Rented,"Clubhouse, Security, Garden, WiFi",2022-04-01 09:25:54
+2406,82,Villa,https://example.com/images/property_82.jpg,,3,4,Yes,1990,Gas,Split AC,Rented,"Clubhouse, Play Area, Gym, Security",2022-01-06 11:29:13
+1359,83,Apartment,https://example.com/images/property_83.jpg,4,5,2,Yes,2011,Central,Split AC,Under Construction,"Swimming Pool, Security, Gym",2022-01-17 11:57:32
+5508,84,Townhouse,https://example.com/images/property_84.jpg,,1,2,Yes,1997,Gas,Ceiling Fan,Under Construction,"Gym, Gym, Garden",2022-01-08 09:05:36
+8989,85,Villa,https://example.com/images/property_85.jpg,,1,2,No,2022,Central,None,Sold,"Security, Elevator",2022-01-13 07:22:03
+8920,86,Apartment,https://example.com/images/property_86.jpg,5,3,4,Yes,1996,Central,Ceiling Fan,Available,"Garden, Play Area, Security, Pool",2022-01-22 07:11:15
+2613,87,Condo,https://example.com/images/property_87.jpg,,2,1,Yes,2014,Central,None,Under Construction,"Clubhouse, Clubhouse, Security",2022-03-30 10:01:12
+2880,88,Apartment,https://example.com/images/property_88.jpg,6,1,1,No,1997,Electric,Central,Under Construction,"Swimming Pool, Security",2022-02-15 05:35:23
+8870,89,Villa,https://example.com/images/property_89.jpg,,4,4,Yes,2008,Gas,Central,Under Construction,"Clubhouse, Garden, WiFi",2022-01-11 08:20:51
+1913,90,Townhouse,https://example.com/images/property_90.jpg,,2,1,Yes,2016,None,Split AC,Sold,"Clubhouse, Clubhouse",2022-03-20 02:18:17
+8619,91,Apartment,https://example.com/images/property_91.jpg,4,1,1,Yes,1993,None,Ceiling Fan,Sold,"Gym, Garden, Gym",2022-03-15 02:47:19
+8798,92,Villa,https://example.com/images/property_92.jpg,,5,2,No,2014,None,Central,Under Construction,"Gym, Play Area",2022-01-16 08:13:49
+6881,93,Apartment,https://example.com/images/property_93.jpg,5,3,4,Yes,1991,None,Ceiling Fan,Sold,"Gym, Garden",2022-03-18 02:29:30
+9110,94,Apartment,https://example.com/images/property_94.jpg,5,5,1,Yes,1995,Gas,Central,Under Construction,"Swimming Pool, Clubhouse, WiFi",2022-03-31 05:09:23
+4234,95,Condo,https://example.com/images/property_95.jpg,,2,4,Yes,2001,None,None,Sold,"Security, WiFi, Clubhouse",2022-01-02 01:19:25
+8097,96,Condo,https://example.com/images/property_96.jpg,,3,2,No,2015,Gas,None,Available,"Garden, Garden",2022-04-02 09:07:33
+3657,97,Villa,https://example.com/images/property_97.jpg,,2,3,Yes,2003,Gas,Ceiling Fan,Rented,"Swimming Pool, Play Area, Gym",2022-03-16 08:37:16
+9169,98,Condo,https://example.com/images/property_98.jpg,,5,1,Yes,2018,Central,Central,Available,"Swimming Pool, Security, WiFi, Gym",2022-02-24 04:01:46
+2749,99,Villa,https://example.com/images/property_99.jpg,,4,4,Yes,2008,Electric,Ceiling Fan,Sold,"Swimming Pool, Clubhouse, Pool, Elevator",2022-01-15 08:37:12
+8610,100,Condo,https://example.com/images/property_100.jpg,,4,1,Yes,1990,None,None,Rented,"Gym, Clubhouse, Elevator, WiFi",2022-01-29 07:57:03

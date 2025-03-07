@@ -1,0 +1,101 @@
+property_id,property_name,size_sqft,furnished_status,location,price,created_at
+1,Mahindra Greens,2598,Furnished,Miami,567117.23,2022-01-01 08:12:09
+2,DLF Heights,4787,Furnished,Houston,685248.42,2022-01-21 06:35:16
+3,Sobha Palms,2834,Furnished,New York,55788.86,2022-02-17 05:19:49
+4,Lodha Greens,2312,Semi-Furnished,Washington DC,591564.39,2022-02-03 09:55:40
+5,Mahindra Meadows,4880,Furnished,Washington DC,286891.86,2022-02-26 12:23:02
+6,Prestige Horizon,2966,Unfurnished,Boston,661445.43,2022-03-09 11:43:11
+7,Brigade Greens,3512,Semi-Furnished,Miami,319698.21,2022-02-19 05:21:20
+8,Prestige Vista,1828,Unfurnished,San Francisco,892728.44,2022-03-05 09:04:23
+9,Sobha Meadows,1849,Unfurnished,Dallas,519255,2022-03-01 11:39:11
+10,Sobha Greens,2573,Semi-Furnished,Miami,322684.65,2022-02-25 11:22:21
+11,Tata Orchards,3371,Furnished,San Francisco,938354.13,2022-03-03 04:40:42
+12,Godrej Vista,2739,Semi-Furnished,Chicago,261616.73,2022-02-27 06:39:42
+13,Brigade Elite,606,Unfurnished,New York,702864.38,2022-02-21 11:01:30
+14,Lodha Vista,4750,Unfurnished,San Francisco,956345.51,2022-02-08 02:47:24
+15,DLF Meadows,1123,Semi-Furnished,Chicago,606720.26,2022-01-04 06:01:08
+16,Brigade Vista,3783,Furnished,Los Angeles,426689.44,2022-03-04 12:22:25
+17,Prestige Heights,599,Furnished,New York,462097.25,2022-03-24 06:44:26
+18,Casagrand Vista,701,Furnished,Chicago,102599.88,2022-01-05 09:08:53
+19,Brigade Orchards,2898,Unfurnished,Miami,590216.41,2022-04-10 07:38:51
+20,Prestige Palms,1699,Unfurnished,Los Angeles,726734.08,2022-04-09 02:42:01
+21,Godrej Residency,4992,Unfurnished,Boston,112984.27,2022-02-12 12:48:39
+22,Casagrand Residency,2165,Furnished,New York,78310.75,2022-01-23 10:14:04
+23,Mahindra Palms,996,Unfurnished,New York,219059.9,2022-02-01 04:29:53
+24,Tata Serenity,844,Furnished,Miami,556393.14,2022-03-26 07:13:48
+25,Casagrand Meadows,4956,Unfurnished,Dallas,912717.54,2022-02-20 02:37:57
+26,Brigade Palms,4097,Unfurnished,Boston,689591.26,2022-03-07 12:03:55
+27,Prestige Serenity,3318,Unfurnished,Miami,872631.65,2022-01-25 12:31:33
+28,Puravankara Horizon,1176,Unfurnished,Los Angeles,993581.75,2022-01-31 08:28:57
+29,DLF Greens,1333,Semi-Furnished,San Francisco,485532.39,2022-03-12 01:08:32
+30,Godrej Serenity,1216,Furnished,New York,365860.98,2022-01-24 05:53:27
+31,Sobha Residency,3507,Furnished,Boston,622034.13,2022-01-20 06:55:19
+32,Mahindra Orchards,2257,Unfurnished,Miami,450840.84,2022-02-10 05:26:46
+33,Prestige Orchards,944,Furnished,Houston,221367.59,2022-02-23 12:02:56
+34,DLF Elite,1199,Semi-Furnished,Washington DC,146567.64,2022-01-14 02:43:48
+35,Casagrand Elite,2089,Semi-Furnished,Los Angeles,166347.77,2022-04-04 10:13:28
+36,Mahindra Elite,1605,Unfurnished,Los Angeles,536477.74,2022-01-19 08:00:04
+37,DLF Palms,4898,Furnished,Miami,100843.81,2022-02-28 04:32:15
+38,Tata Residency,4166,Semi-Furnished,Boston,357794.72,2022-01-28 02:14:01
+39,Tata Heights,2251,Semi-Furnished,Dallas,214241.25,2022-01-30 10:19:45
+40,Prestige Meadows,2121,Furnished,Dallas,633588.82,2022-01-12 11:09:32
+41,Brigade Residency,4219,Unfurnished,Los Angeles,488165.2,2022-02-06 03:14:46
+42,Casagrand Heights,2265,Furnished,Chicago,358667.11,2022-02-04 08:28:44
+43,Lodha Serenity,4856,Unfurnished,Boston,369653.24,2022-03-10 12:12:29
+44,Godrej Elite,2343,Semi-Furnished,Washington DC,674587.3,2022-02-05 11:38:28
+45,Godrej Meadows,4614,Furnished,Washington DC,840692.25,2022-02-22 02:32:57
+46,Casagrand Greens,943,Semi-Furnished,Miami,852714.51,2022-01-27 10:45:18
+47,Sobha Orchards,1570,Unfurnished,Los Angeles,197311.72,2022-02-09 12:09:02
+48,DLF Vista,2265,Unfurnished,New York,828394.29,2022-03-06 02:20:13
+49,Mahindra Serenity,2874,Unfurnished,Los Angeles,560901.92,2022-03-13 04:22:35
+50,Lodha Meadows,2945,Furnished,San Francisco,189009.95,2022-03-23 07:40:37
+51,Tata Palms,1476,Unfurnished,Washington DC,285372.74,2022-03-27 06:06:50
+52,Sobha Heights,1906,Semi-Furnished,San Francisco,774883.13,2022-03-21 09:53:37
+53,Puravankara Vista,3578,Unfurnished,Washington DC,575067.89,2022-01-07 07:56:48
+54,Godrej Horizon,3417,Semi-Furnished,Boston,423921.7,2022-01-26 10:09:33
+55,Puravankara Palms,1830,Furnished,Chicago,728935.26,2022-03-25 12:18:15
+56,Puravankara Residency,4846,Semi-Furnished,Seattle,407920.14,2022-04-03 09:42:09
+57,DLF Horizon,3101,Furnished,Miami,682694.98,2022-03-11 02:36:53
+58,DLF Orchards,3226,Semi-Furnished,New York,673404.13,2022-01-03 08:12:24
+59,Casagrand Serenity,3773,Furnished,Houston,870396.6,2022-02-14 09:06:48
+60,Godrej Orchards,1666,Unfurnished,New York,528645.4,2022-04-08 12:52:31
+61,Sobha Vista,1234,Unfurnished,Houston,675888.07,2022-03-08 05:36:51
+62,Tata Meadows,4273,Unfurnished,Los Angeles,791883.7,2022-03-28 01:40:48
+63,Brigade Serenity,852,Unfurnished,Seattle,500007.26,2022-03-19 12:04:32
+64,Puravankara Elite,3314,Furnished,Seattle,402924.77,2022-02-07 04:42:53
+65,Puravankara Meadows,1666,Semi-Furnished,New York,802433.84,2022-04-06 09:20:20
+66,Lodha Orchards,1478,Furnished,Boston,391945.35,2022-01-18 10:52:20
+67,Mahindra Residency,4759,Semi-Furnished,Chicago,90243.11,2022-01-10 04:26:54
+68,Tata Horizon,2251,Semi-Furnished,Chicago,374148.92,2022-02-16 11:06:50
+69,Brigade Meadows,2306,Unfurnished,Los Angeles,540113.18,2022-03-22 02:43:49
+70,Casagrand Orchards,4118,Unfurnished,Los Angeles,797831.08,2022-03-14 08:36:39
+71,Godrej Heights,769,Furnished,New York,679115.38,2022-02-02 12:27:58
+72,Tata Elite,3260,Semi-Furnished,Houston,956187.3,2022-03-02 10:14:49
+73,Lodha Elite,1985,Semi-Furnished,Houston,761781.61,2022-03-17 10:45:53
+74,Godrej Greens,4061,Semi-Furnished,Los Angeles,219418.82,2022-02-18 08:26:10
+75,Mahindra Horizon,2804,Furnished,Boston,853733.16,2022-03-29 04:59:11
+76,Tata Greens,1994,Semi-Furnished,Houston,337386.66,2022-04-05 04:35:27
+77,Prestige Residency,3044,Furnished,Los Angeles,569889.63,2022-02-13 07:10:07
+78,Mahindra Vista,1493,Semi-Furnished,Seattle,234638.04,2022-04-07 07:02:32
+79,Puravankara Heights,1669,Semi-Furnished,New York,820410.42,2022-01-09 01:41:57
+80,Brigade Heights,2721,Furnished,Houston,695037.85,2022-02-11 11:07:18
+81,Mahindra Heights,1773,Unfurnished,San Francisco,690757.19,2022-04-01 09:25:54
+82,Puravankara Serenity,2509,Unfurnished,Washington DC,961314.14,2022-01-06 11:29:13
+83,Prestige Elite,935,Unfurnished,Washington DC,825620.2,2022-01-17 11:57:32
+84,DLF Serenity,3123,Furnished,New York,491665.86,2022-01-08 09:05:36
+85,Godrej Palms,4795,Furnished,New York,666904.26,2022-01-13 07:22:03
+86,Sobha Horizon,1358,Semi-Furnished,Houston,675326.45,2022-01-22 07:11:15
+87,Tata Vista,3369,Furnished,Miami,80184.03,2022-03-30 10:01:12
+88,Puravankara Greens,4164,Semi-Furnished,Seattle,430340.33,2022-02-15 05:35:23
+89,Sobha Elite,3114,Unfurnished,Miami,895460.15,2022-01-11 08:20:51
+90,Prestige Greens,766,Unfurnished,San Francisco,981269.23,2022-03-20 02:18:17
+91,Lodha Horizon,2787,Unfurnished,Houston,584728.14,2022-03-15 02:47:19
+92,Sobha Serenity,593,Semi-Furnished,Boston,475821.23,2022-01-16 08:13:49
+93,DLF Residency,1321,Furnished,Seattle,699604.88,2022-03-18 02:29:30
+94,Brigade Horizon,642,Semi-Furnished,Chicago,705568.07,2022-03-31 05:09:23
+95,Lodha Residency,2037,Furnished,New York,527810.46,2022-01-02 01:19:25
+96,Casagrand Horizon,2887,Unfurnished,New York,763403.75,2022-04-02 09:07:33
+97,Lodha Palms,3438,Semi-Furnished,Houston,950859.21,2022-03-16 08:37:16
+98,Lodha Heights,750,Unfurnished,Dallas,357193.2,2022-02-24 04:01:46
+99,Casagrand Palms,2901,Furnished,Chicago,963815.5,2022-01-15 08:37:12
+100,Puravankara Orchards,558,Furnished,New York,753027.04,2022-01-29 07:57:03
